@@ -1,4 +1,4 @@
-# librarymanagementsystem
+# LibraryManagementSystem
 
 
 ## About the Project
